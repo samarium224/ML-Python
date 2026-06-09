@@ -34,7 +34,7 @@ print("Matplotlib:", plt.matplotlib.__version__)
 
 ---
 
-## 1.1 — Why NumPy? (15 min)
+## 1.1 — Why NumPy?
 
 **Question:** *"Why can't we just use Python lists for math?"*
 
@@ -59,7 +59,7 @@ NumPy is 10–100x faster because it stores data in contiguous memory blocks and
 
 ---
 
-## 1.2 — Core Concepts to Teach
+## 1.2 — Core Concepts
 
 ### Creating Arrays
 
