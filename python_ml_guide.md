@@ -730,6 +730,7 @@ Find:
 - **Matplotlib:** https://matplotlib.org/stable/tutorials/introductory/pyplot.html
 - **Practice Datasets:** https://www.kaggle.com/datasets (Titanic, House Prices, Iris)
 - **Free Course:** https://www.kaggle.com/learn (Pandas and Data Visualization courses are excellent)
+- **ML Study Materials:** https://github.com/codebasics/py/tree/master/ML
 
 ---
 
